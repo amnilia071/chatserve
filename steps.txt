@@ -1,0 +1,6 @@
+1 .change the connecation string from webconfig
+2.copy the connecation from web config 
+3.then past to  chat server inside 
+to module in the application
+4.tyry both application
+
